@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1706153254 source:d:\c++\trainticket\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+
+1703246020 d:\c++\trainticket\fileh.h
+	<fstream>
+	<iostream>
+
+1703245087 d:\c++\trainticket\kaam.h
+	<fstream>
+	<iostream>
+	"fileH.h"
+
